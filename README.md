@@ -1,8 +1,13 @@
-Hi there, I'm Xikai Meng（孟西恺 in Chinese）! 👋
-I am a student at Harbin Institute of Technology and a visiting student at the University of California, San Diego, where I am studying computer science and physics.
+# Hi there, I'm Xikai Meng 👋
 
-🔭 Check out what I'm currently working on
+  
+## 🎓 About Me
 
-Deep learning for science.
+I was a undergraduated student at Harbin Institute of Technology, School of Physics, with a strong background in AI engineering and research. My research focuses on mlsys(model inference optimaztion, model compression) and deep learning for science. I was also a visiting student at the University of California, San Diego, where I studied computer science and physics.
 
-🔨 Check out my recent pull requests
+- 🔭 I'm currently working as an Algorithm Researcher at AMD Quark Group
+- 🌱 I'm exploring model compression methods such as quantization and applications in heterogeneous computing
+- 👯 I'm collaborating with SD-HC to develop heterogeneous computing frameworks
+- 📫 How to reach me: mengnoah78952@gmail.com
+
+## 🚀 Research & Projects
